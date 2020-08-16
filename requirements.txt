@@ -1,0 +1,3 @@
+cryptography==3.0
+pyAesCrypt==0.4.3
+pycryptodome==3.9.8
