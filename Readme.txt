@@ -13,3 +13,5 @@ Steps to encrypt and decrypt
 
 Note : If you plan on uploading your script to GitHub or any other location, ensure that you don't mention your sender_mail_id and Application_Password in the file.
 If at all you do upload it, those who get access to the repository will be able to send mails using the credentials. 
+
+If you face issues while implementing this code, or sending mails to multiple users, feel free to reach out to me at 'krkolle@gmail.com'
