@@ -2,7 +2,6 @@
 
 You can find the modules required for this program to run in 'requirements.txt' Install the packages first and then proceed with below changes.
 Changes to be made in the file before running it :
-
 1 . Whereever it is mentioned 'sender_mail_id', type in your mail ID or the test mail if you have created one.
 2 . If you are using GMAIL to send mails, then you can go ahead with the same smtp configuration.
 In case of others, find their SMTP Servers and ports used and update in the line where it says 'smtp.gmail.com'
